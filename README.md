@@ -6,6 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Amateur athlete who develop autonomous mining equipment professionally. 
-- 😄 Pronouns: Lu
+- 🔭 Brazilian amateur athlete who develop autonomous mining equipment professionally. 
+- 😄 You can call me Lu
+- :de: Can speak german fluently
+- ⚙️ I use daily: `.cpp`, `.py`
+- :robot: Great experience with **Robot Operating System**
+- 🌱 Learning all about **web development**
+
 
