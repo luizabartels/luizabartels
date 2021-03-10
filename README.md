@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on automation of mining equipments.
+- 🔭 Amateur athlete who develop autonomous mining equipment professionally. 
 - 😄 Pronouns: Lu
-- ⚡ Fun fact: cannot live a day without practicing sports.
 
