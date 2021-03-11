@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 Brazilian amateur athlete who develop autonomous mining equipment professionally. 
 - 😄 You can call me Lu
 - :de: Can speak german fluently
-- ⚙️ I use daily: `.cpp`, `.py`
+- ⚙️ I use daily: `.cpp` and `.py`
 - :robot: Great experience with **Robot Operating System**
 - 🌱 Learning all about **web development**
 
